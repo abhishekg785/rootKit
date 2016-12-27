@@ -1,0 +1,1 @@
+asmlinkage long sys process name(char* process_name);
